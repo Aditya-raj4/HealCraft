@@ -24,8 +24,6 @@ If it meets our requirements we will accept your gratitude.
 Contributing
 We welcome contributions to this project in the form of code, documentation, or financial support. If you are interested in contributing, please see our CONTRIBUTING.md file for guidelines.
 
-License
-This project is licensed under the MIT License.
 
 Contact
 If you have any questions or suggestions, please feel free to reach out to us at adityatiwary888@gmail.com,ujjwal0949@gmail.com or alok0kr11@gmail.com. Thank you for your interest in donating medicines and helping to improve access to healthcare for all.
